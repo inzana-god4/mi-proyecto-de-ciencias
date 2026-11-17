@@ -13,7 +13,7 @@ El proyecto responde a la pregunta: *¿Puede un videojuego educativo interactivo
 * **Inclusión Multilingüe:** Soporte integrado en **Español, Inglés, Portugués y Guaraní** para ampliar el acceso al conocimiento
 ---
 
-## 🌍 Alineación con los ODS (ONU)
+## Alineación con los ODS (ONU)
 
 Este proyecto contribuye directamente a los Objetivos de Desarrollo Sostenible[cite: 5]:
 * **ODS 4 (Educación de calidad):** Aprendizaje práctico e interactivo mediante gamificación (DGBL)
@@ -23,7 +23,7 @@ Este proyecto contribuye directamente a los Objetivos de Desarrollo Sostenible[c
 
 ---
 
-## 🛠️ Arquitectura y Stack Tecnológico
+## Arquitectura y Stack Tecnológico
 
 El software fue construido bajo una arquitectura modular inspirada en el patrón **Modelo-Vista-Controlador (MVC)**, separando la lógica de simulación de la interfaz gráfica:
 
